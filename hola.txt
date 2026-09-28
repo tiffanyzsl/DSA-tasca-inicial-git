@@ -1,2 +1,2 @@
-
-Quiero comer mango. Edita el texto y sube los cambio con el commit. PAra hacer la entrega, debes crear un fichero txt donde dentro este el link de tu repositorio.
+Quiero comer mango. 
+Mañana tengo clase.
